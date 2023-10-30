@@ -163,8 +163,3 @@
 </h2>
 
 <br>
-
-* 📕 [개발일지(정예륜)](https://perfect-bluebell-dba.notion.site/2961c75bb5af47a4a35a6ce27cf8e6ec)
-* 📘 [개발일지(이명우)](https://perfect-bluebell-dba.notion.site/9fc715b299ee4870b366511b6d56ef95)
-
-<br>
